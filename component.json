@@ -1,0 +1,14 @@
+{
+    "name": "dnd-core",
+    "description": "Drag and drop sans the GUI",
+    "repos": "https://github.com/gaearon/dnd-core.git",
+    "main": "lib/index.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {
+        "invariant": "^2.0.0",
+        "lodash": "^3.10.1",
+        "redux": "^3.0.0"
+    },
+    "version": "1.2.0"
+}
